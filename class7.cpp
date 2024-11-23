@@ -90,10 +90,12 @@ public:
         balance = initial;
     }
 
+    // getter
     double getBalance() {
         return balance;
     }
 
+    // setter
     void setBalance(double balance) {
         if (balance > 0) {
             this->balance = balance;
