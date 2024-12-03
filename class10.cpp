@@ -88,6 +88,6 @@ int main() {
 
 /*
 Given a string "hi hellohiworld", find how many "hi" from given string
-hint: using find and loop
+hint: using find and while loop
 */
 // solve 2024 j2 and 2023 j2
