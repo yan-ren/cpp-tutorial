@@ -70,5 +70,6 @@ int main() {
     int bronzeCount = count(scores.begin(), scores.end(), bronzeScore);
 
     cout << bronzeScore << " " << bronzeCount;
+
     return 0;
 }
